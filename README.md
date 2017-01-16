@@ -9,3 +9,5 @@ controls with a barely modified SteamVR_TestThrow.cs and made the spheres bouncy
 ## Controls
 
 Trigger to spawn a new huge ball on your hand. Throw it. It exists for 15 secs. Collect the cubes. That's it.
+
+![Roll-a-Ball-VR](Roll-a-Ball-VR.jpg)
